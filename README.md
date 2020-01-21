@@ -1,2 +1,2 @@
 # io_exa
-Internet programming course
+Internet programming course exercise a
