@@ -32,3 +32,19 @@ html,
     background-color: white;
     margin-left: 160px;;
 }
+
+.myforms{
+	  border-color: black;
+	  border-style: solid;
+	  border-radius: 20px;
+	  padding: 20px;
+		width: 200px;
+}
+
+	#sourceForm{
+	  background-color: yellow;
+}
+
+	#targetForm{
+	  background-color: lightgreen;
+}
